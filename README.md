@@ -46,6 +46,7 @@
 | [Micro Code Editor](https://codepen.io/kazzkiq/pen/xGXaKR?editors=0110)              | Make your own code editor!                                |
 | [Color Matching Game](https://codepen.io/coder787/pen/KKadYZp?editors=0010)          | Make a game where you drag the colors in the right place. |
 | [Space Invaders](https://codeheir.com/2019/03/17/how-to-code-space-invaders-1978-7/) | The arcade game pixelating back to life.                  |
+| [Minesweeper](https://codepen.io/joelbyrd/pen/hdHKF)                                 | A minesweeper is a small warship game.                    |
 
 
 ## This is not over YET!!! We need your help to expand this page and people's knowledge!!!
