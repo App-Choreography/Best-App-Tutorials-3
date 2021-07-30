@@ -13,6 +13,19 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "CodingSpecies",
+      "name": "CodingSpecies",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70807500?v=4",
+      "profile": "https://codingspecies.github.io/MeAndMyApps/",
+      "contributions": [
+        "projectManagement",
+        "code",
+        "content",
+        "doc",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
