@@ -1,6 +1,6 @@
 # Best-App-Tutorials.
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 - [Best-App-Tutorials.](#best-app-tutorials)
@@ -75,6 +75,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://slimcoder.wordpress.com"><img src="https://avatars.githubusercontent.com/u/28563357?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Slim Coder</b></sub></a><br /><a href="#content-MRslimcoder" title="Content">🖋</a></td>
     <td align="center"><a href="https://codingspecies.github.io/MeAndMyApps/"><img src="https://avatars.githubusercontent.com/u/70807500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CodingSpecies</b></sub></a><br /><a href="#projectManagement-CodingSpecies" title="Project Management">📆</a> <a href="https://github.com/App-Choreography/Best-App-Tutorials-3/commits?author=CodingSpecies" title="Code">💻</a> <a href="#content-CodingSpecies" title="Content">🖋</a> <a href="https://github.com/App-Choreography/Best-App-Tutorials-3/commits?author=CodingSpecies" title="Documentation">📖</a> <a href="https://github.com/App-Choreography/Best-App-Tutorials-3/pulls?q=is%3Apr+reviewed-by%3ACodingSpecies" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/AvidCoder101"><img src="https://avatars.githubusercontent.com/u/70807684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AvidCoder</b></sub></a><br /><a href="https://github.com/App-Choreography/Best-App-Tutorials-3/pulls?q=is%3Apr+reviewed-by%3AAvidCoder101" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
